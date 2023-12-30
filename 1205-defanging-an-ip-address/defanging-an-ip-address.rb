@@ -12,6 +12,5 @@ def defang_i_paddr(address)
             index += 1
         end       
     end
-    defanged = defangedchars.join
-    return defanged
+    return defangedchars.join
 end
